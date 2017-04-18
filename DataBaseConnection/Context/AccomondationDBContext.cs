@@ -8,9 +8,9 @@ using System.Data.Entity;
 
 namespace DataBaseConnection
 {
-    class AccomondationDBContext : DbContext
+    public class AccomondationDBContext : DbContext
     {
-        public AccomondationDBContext(): base("AccomondationDB")
+        public AccomondationDBContext(): base("accomondationDB")
         { }
 
         public DbSet<Customer> Customers { get; set; }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DataBaseConnection;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,17 @@ namespace DB_lab
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ModelsOfModules model = new ModelsOfModules();
+            model.ModelName = ModelTextBox.Text;
+            model.ModelRadius = RadiusTextBox.Text;
+
+            AccomondationDBContext context = new AccomondationDBContext();
+            context.Models.Add(model);
+            context.SaveChanges();
         }
     }
 }

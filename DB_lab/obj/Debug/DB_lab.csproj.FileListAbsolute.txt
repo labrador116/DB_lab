@@ -1,0 +1,16 @@
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DB_lab\bin\Debug\DB_lab.exe.config
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DB_lab\bin\Debug\DB_lab.exe
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DB_lab\bin\Debug\DB_lab.pdb
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DB_lab\bin\Debug\DataBaseConnection.dll
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DB_lab\bin\Debug\DataBaseConnection.pdb
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DB_lab\bin\Debug\DataBaseConnection.dll.config
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DB_lab\bin\Debug\EntityFramework.xml
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DB_lab\obj\Debug\DB_lab.csprojResolveAssemblyReference.cache
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DB_lab\obj\Debug\DB_lab.Properties.Resources.resources
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DB_lab\obj\Debug\DB_lab.csproj.GenerateResource.Cache
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DB_lab\obj\Debug\DB_lab.exe
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DB_lab\obj\Debug\DB_lab.pdb
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DB_lab\obj\Debug\DB_lab.Form1.resources
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DB_lab\bin\Debug\EntityFramework.dll
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DB_lab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DB_lab\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,10 @@
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DataBaseConnection\bin\Debug\DataBaseConnection.dll.config
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DataBaseConnection\bin\Debug\DataBaseConnection.dll
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DataBaseConnection\bin\Debug\DataBaseConnection.pdb
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DataBaseConnection\bin\Debug\EntityFramework.dll
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DataBaseConnection\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DataBaseConnection\bin\Debug\EntityFramework.xml
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DataBaseConnection\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DataBaseConnection\obj\Debug\DataBaseConnection.csprojResolveAssemblyReference.cache
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DataBaseConnection\obj\Debug\DataBaseConnection.dll
+C:\Users\magaz\documents\visual studio 2017\Projects\DB_lab\DataBaseConnection\obj\Debug\DataBaseConnection.pdb
